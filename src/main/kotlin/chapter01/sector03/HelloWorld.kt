@@ -1,4 +1,4 @@
-package chapter01.helloworld
+package chapter01.sector03
 
 /**
  * fun은 함수를 선언할 때 사용하는 키워드 (function의 줄임말)
