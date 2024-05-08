@@ -1,4 +1,4 @@
-package chapter01.sector11
+package chapter01.atom11
 
 /**
  * while은 조건이 true인 동안 반복

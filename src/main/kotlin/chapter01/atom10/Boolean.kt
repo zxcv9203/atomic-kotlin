@@ -1,4 +1,4 @@
-package chapter01.sector10
+package chapter01.atom10
 
 /**
  * && : 연산자 오른쪽과 왼쪽에 있는 Boolean 식이 모두 true일때만 true를 반환

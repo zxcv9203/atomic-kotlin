@@ -1,4 +1,4 @@
-package chapter01.sector13
+package chapter01.atom13
 
 /**
  * in 키워드는 어떤 값이 주어진 범위 안에 들어 있는지 검사합니다.

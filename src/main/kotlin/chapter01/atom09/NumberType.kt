@@ -1,4 +1,4 @@
-package chapter01.sector09
+package chapter01.atom09
 
 fun main() {
     // 정숫값을 대입하면 Int로 추론

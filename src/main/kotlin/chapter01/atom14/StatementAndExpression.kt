@@ -1,4 +1,4 @@
-package chapter01.sector14
+package chapter01.atom14
 
 /**
  * 문(statement)과 식(expression)은 대부분의 프로그래밍 언어에서 가장 작은 코드 조각입니다.

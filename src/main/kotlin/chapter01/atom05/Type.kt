@@ -1,4 +1,4 @@
-package chapter01.sector05
+package chapter01.atom05
 
 fun main() {
     println("Sally" + 5.9)

@@ -1,4 +1,4 @@
-package chapter02.sector17
+package chapter02.atom17
 
 
 // 클래스 정의

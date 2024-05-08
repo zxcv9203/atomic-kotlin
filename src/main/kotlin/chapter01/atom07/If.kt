@@ -1,4 +1,4 @@
-package chapter01.sector07
+package chapter01.atom07
 
 fun main() {
     if1()

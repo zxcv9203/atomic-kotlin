@@ -1,4 +1,4 @@
-package chapter01.sector12
+package chapter01.atom12
 
 /**
  * for는 반복문을 사용할 때 사용하는 키워드

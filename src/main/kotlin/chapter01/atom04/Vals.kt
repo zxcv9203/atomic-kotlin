@@ -1,4 +1,4 @@
-package chapter01.sector04
+package chapter01.atom04
 
 /**
  * val는 변수를 선언할 때 사용하는 키워드 (value의 줄임말)

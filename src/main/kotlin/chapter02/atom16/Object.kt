@@ -1,4 +1,4 @@
-package chapter02.sector16
+package chapter02.atom16
 
 /**
  * 객체는 프로퍼티(val과 var)를 이용해 데이터를 저장하고, 함수를 사용해 데이터에 대한 연산을 수행합니다.

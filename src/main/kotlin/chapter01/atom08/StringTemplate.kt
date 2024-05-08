@@ -1,4 +1,4 @@
-package chapter01.sector08
+package chapter01.atom08
 
 fun main() {
     val answer = 42
