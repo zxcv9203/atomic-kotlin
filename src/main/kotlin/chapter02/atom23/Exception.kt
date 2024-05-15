@@ -10,6 +10,17 @@ package chapter02.atom23
 
 fun main() {
     // 예외가 발생하는 코드
-    val i = "1$".toInt()
-    println(i)
+//    val i = "1$".toInt()
+//    println(i)
+
+    averageIncome(3300, 0)
 }
+
+/**
+ * 다음 함수와 같이 예외를 직접 작성할 수 있습니다.
+ */
+fun averageIncome(income: Int, months: Int) =
+    if (months == 0)
+        throw IllegalArgumentException("월 수는 0보다 커야 합니다.")
+    else
+        income / months
