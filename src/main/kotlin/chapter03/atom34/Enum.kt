@@ -23,18 +23,18 @@ enum class Direction(val noation: String) {
     EAST("E");
 
     val opposite: Direction
-        get() = when(this) {
+        get() = when (this) {
             NORTH -> SOUTH
             SOUTH -> NORTH
             WEST -> EAST
             EAST -> WEST
-
+        }
 }
 
 fun main() {
     // enum을 사용해 enum 항목마다 서로 다른 동작을 수행할 수 있습니다.
     val level = Level.Medium
-    when(level) {
+    when (level) {
         Level.Overflow -> println("Overflow")
         Level.High -> println("High")
         Level.Medium -> println("Medium")
